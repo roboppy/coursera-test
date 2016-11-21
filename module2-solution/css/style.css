@@ -22,6 +22,7 @@ div.content-box1, div.content-box2, div.content-box3 {
   padding: 15px;
   margin: 15px;
   border: 1px solid black;
+  background: #fdfdcc;
 }
 
 h2 {
@@ -43,25 +44,16 @@ p {
   font-size: 1em;
 }
 
-div.content-box1 {
-  background: #fff9bf;
-}
 
 div.content-box1 h2 {
   background: #ffcb11;
 }
 
-div.content-box2 {
-    background: #b0f5c8;
-}
 
 div.content-box2 h2 {
   background: #32c54f;
 }
 
-div.content-box3 {
-  background: #f9d1e1;
-}
 
 div.content-box3 h2 {
   background: #f936a2;
